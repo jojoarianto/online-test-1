@@ -25,10 +25,12 @@ For each test case, output one line of the form “Case C: X” (without the quo
 
 Constraints:
 
+```json
 1 ≤ T ≤ 100
 1 ≤ N ≤ 100
 1 ≤ M ≤ 100
 1 ≤ length(W) ≤ 100
+```
 
 Sample Input:
 
@@ -81,9 +83,11 @@ See the sample output below for details.
 
 Constraints:
 
+```json
 1 ≤ T ≤ 100
 1 ≤ N ≤ 100
 1 ≤ M ≤ 100
+```
 
 Sample Input:
 ```json
